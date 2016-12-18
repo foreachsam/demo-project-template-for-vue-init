@@ -1,5 +1,7 @@
 # demo-project-template-for-vue-init
 
+[原始說明](https://foreachsam.github.io/book-util-vue/read/howto/vue-cli/vue-init-from-github)
+
 
 ## 功能
 
@@ -7,7 +9,9 @@
 
 產生的方式可以參考這個「[Shell Script](https://github.com/foreachsam/book-util-vue/blob/gh-pages/example/howto/vue-cli/create-template-004/template-create.sh)」，
 
-相關的說明可以參考「[這篇](https://foreachsam.github.io/book-util-vue/read/howto/vue-cli/create-template-004)」。
+產生的說明可以參考「[這篇](https://foreachsam.github.io/book-util-vue/read/howto/vue-cli/create-template-004)」。
+
+使用的說明可以參考「[這篇](https://foreachsam.github.io/book-util-vue/read/howto/vue-cli/vue-init-from-github)」。
 
 ## 操作步驟
 
