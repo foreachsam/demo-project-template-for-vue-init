@@ -1,17 +1,17 @@
 # demo-project-template-for-vue-init
 
-[原始說明](https://foreachsam.github.io/book-util-vue/read/howto/vue-cli/vue-init-from-github)
+[原始說明](https://foreachsam.github.io/book-lang-javascript-vue/read/howto/vue-cli/vue-init-from-github)
 
 
 ## 功能
 
 這個範本，是用來提供給「vue init」使用的樣版專案。
 
-產生的方式可以參考這個「[Shell Script](https://github.com/foreachsam/book-util-vue/blob/gh-pages/example/howto/vue-cli/create-template-004/template-create.sh)」，
+產生的方式可以參考這個「[Shell Script](https://github.com/foreachsam/book-lang-javascript-vue/blob/gh-pages/example/howto/vue-cli/create-template-004/template-create.sh)」，
 
-產生的說明可以參考「[這篇](https://foreachsam.github.io/book-util-vue/read/howto/vue-cli/create-template-004)」。
+產生的說明可以參考「[這篇](https://foreachsam.github.io/book-lang-javascript-vue/read/howto/vue-cli/create-template-004)」。
 
-使用的說明可以參考「[這篇](https://foreachsam.github.io/book-util-vue/read/howto/vue-cli/vue-init-from-github)」。
+使用的說明可以參考「[這篇](https://foreachsam.github.io/book-lang-javascript-vue/read/howto/vue-cli/vue-init-from-github)」。
 
 ## 操作步驟
 
